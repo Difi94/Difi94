@@ -4,7 +4,7 @@
 
 ---
 
-I'm currently studying **Web Application Development** with a strong focus on creating responsive, accessible, and user-friendly web applications. I’m passionate about turning ideas into real-world applications and i'm always eager to learn new technologies and improve my coding skills.
+I'm currently studying **Web Application Development** with a strong focus on creating responsive, accessible, and user-friendly web applications. I’m passionate about turning ideas into real-world applications and always eager to learn new technologies and improve my coding skills.
 
 ---
 
