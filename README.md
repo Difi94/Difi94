@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Juan Carlos
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hi, I'm Juan Carlos
 
-### 🧑‍💻 Software Developer Student | Lifelong Learner
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Software Developer Student | Lifelong Learner
 
 ---
 
@@ -8,7 +8,7 @@ I'm currently studying **Web Application Development** with a strong focus on cr
 
 ---
 
-## 📚 What I'm Currently Learning
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> What I'm Currently Learning
 
 - 🔸 Markup lenguages HTML & CSS
 - 🔸 Database management on MySQL
