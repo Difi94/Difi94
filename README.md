@@ -10,7 +10,7 @@ I'm currently studying **Web Application Development** with a strong focus on cr
 
 ## 📚 What I'm Currently Learning
 
-- 🔸 Markup lenguages HTML, XML & MD
+- 🔸 Markup lenguages HTML & CSS
 - 🔸 Database management on MySQL
 - 🔸 Java coding on Eclipse
 - 🔸 Git practices and version control workflow
