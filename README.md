@@ -15,10 +15,17 @@ I'm currently studying **Web Application Development** with a strong focus on cr
 - 🔸 Java coding on Eclipse
 - 🔸 Git practices and version control workflow
   
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,java,mysql,git,github,vscode,eclipse" />
+</p>
+  
 ---
 
 ## 📊 GitHub Stats (Learning in Progress)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Difi94&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Difi94&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Difi94&layout=compact" />
 </p>
+
+<h2 align="center">Thank you for coming by! 🚀</h2>
